@@ -1,0 +1,47 @@
+body p { color: green;}
+body {
+    background-color: black;
+    color: white !important;
+    font-family: sans-serif;
+    margin: 20px;
+}
+  
+
+
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo {
+    height: 50px;
+}
+
+h1 {
+    color: white;
+}
+
+.main-image-container {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+.concierto-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+
+.info-link {
+    color: white;
+    text-decoration: underline;
+}
+
+p {
+    color: blue;
+}
+body {
+    color: red;
+}
